@@ -38,7 +38,7 @@ Expected Response:
 {
   "current_datetime": "2025-02-03T13:16:56.043159Z",
   "email": "wakarijoyce@gmail.com",
-  "github_url": "https://github.com/Kayce-joy/HGC-API"
+  "github_url": "https://github.com/Kayce-joy/HNG-API"
 }
 
 
