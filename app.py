@@ -10,7 +10,7 @@ def get_info():
     response = {
         "email": "wakarijoyce@gmail.com", 
         "current_datetime": datetime.utcnow().isoformat() + "Z",
-        "github_url": "https://github.com/Kayce-joy/HGC-API" 
+        "github_url": "https://github.com/Kayce-joy/HNG-API" 
     }
     return jsonify(response), 200  
 
