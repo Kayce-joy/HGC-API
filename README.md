@@ -40,3 +40,6 @@ Expected Response:
   "email": "wakarijoyce@gmail.com",
   "github_url": "https://github.com/Kayce-joy/HGC-API"
 }
+
+
+HNG Python Developers: https://hng.tech/hire/python-developers
