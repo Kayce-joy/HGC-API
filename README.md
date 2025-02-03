@@ -8,7 +8,7 @@ This API returns my registered email, current datetime (ISO 8601 format), and th
 Setup Instructions
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Kayce-joy/HGC-API.git
+   git clone https://github.com/Kayce-joy/HNG-API.git
 2. Install dependencies:
    pip install flask flask-cors
 3. Run the application:
@@ -27,12 +27,12 @@ The endpoint URL for the API is: GET /
 {
   "current_datetime": "2025-02-03T13:16:56.043159Z",
   "email": "wakarijoyce@gmail.com",
-  "github_url": "https://github.com/Kayce-joy/HGC-API"
+  "github_url": "https://github.com/Kayce-joy/HNG-API"
 }
 
 3. Example Usage(in Postman or browser)
 
-   GET https://your-api-url.com/
+   GET https://hng-api-w49z.onrender.com/
 
 Expected Response:
 {
